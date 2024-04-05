@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hello Word/Hello Word.iml" filepath="$PROJECT_DIR$/Hello Word/Hello Word.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/bootcampAlura.iml" filepath="$PROJECT_DIR$/.idea/bootcampAlura.iml" />
     </modules>
   </component>
