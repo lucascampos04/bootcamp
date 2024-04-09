@@ -8,7 +8,10 @@ public class Main {
         double media = 0;
         double nota = 0;
 
-        for (int i = 0; i < 3; i++) { // Executa 3 vezes
+        System.out.println("Quantas avaliações você que fazer : ");
+        int qtdAvaliacoes = scan.nextInt();
+
+        for (int i = 0; i < qtdAvaliacoes; i++) { // Executa 3 vezes
             System.out.println("Sua avaliação do filme: ");
             nota = scan.nextDouble();
             media += nota; // media = media + nota
